@@ -2,4 +2,5 @@
 2 Zwei (modified line 2)
 3 Tre (Modified line 3)
 4 Vier
-5 Cinque
+5 Cinque (Modified to italian)
+
