@@ -1,5 +1,5 @@
 1 Eins
 2 Zwei
-3 Drei
+3 Tre (Modified to Italian)
 4 Vier
-5 Funf
+5 Cinque (Modified to italian)
